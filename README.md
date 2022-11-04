@@ -26,7 +26,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://files.mdnice.com/user/24614/50dd18f5-e2d5-4eb5-ac76-716aec6da88f.jpg?raw=true" width="300"/>
+<img align="right" alt="GIF" src="https://files.mdnice.com/user/24614/b9852f54-1289-4559-9adc-44933bc29b97.png?raw=true" width="300"/>
 
 
 
