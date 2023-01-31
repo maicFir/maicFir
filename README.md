@@ -3,9 +3,6 @@
 <p align="center">
 <h2 height="200px" align="center">Maic <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
 </p>
-
-
-
 <p align="center">
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
@@ -29,8 +26,6 @@
 <img align="right" alt="GIF" src="https://files.mdnice.com/user/24614/b9852f54-1289-4559-9adc-44933bc29b97.png?raw=true" width="300"/>
 
 
-
-
 # 个人介绍:
 
 * 公众号`Web技术学苑`博主
@@ -43,6 +38,13 @@
 * [js学习笔记](https://github.com/maicFir/lessonNote)
 * [H5移动端仿苹果应用下载](https://github.com/maicFir/topfreeApplication)
 * [nice_utils](https://github.com/maicFir/nice_utils)
+* [uni-app-taobao](https://github.com/maicFir/uni-app-taobao)
+
+# 个人独立开发应用
+* [好看影视](https://tv.wmcweb.cn/)
+* [web技术学学苑-uni-app版](http://h5learn.wmcweb.cn/h5#/)
+* [web技术学苑-uni-小程序]
+<img src="https://learn.wmcweb.cn/images/code4.jpg" width="25" />
 
 # Github status
 
